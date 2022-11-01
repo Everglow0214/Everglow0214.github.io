@@ -10,7 +10,8 @@ in [School of Electrical Engineering](https://ee.kaist.ac.kr/en/),
 My research interests lie primarily in the areas of automatic control, planning and reinforcement learning.
 
 Education
-----
+| | |
+| :-------- | -----------: |
 | Korea Advanced Institute of Science and Technology <br> Ph.D candidate in Electrical Engineering <br> Supervisor: Prof. Dong Eui Chang | Aug. 2020 - Present |
 | Korea Advanced Institute of Science and Technology | Aug. 2018 - June 2020 |
 | Harbin Institute of Technology | Sept. 2014 - June 2018 |
