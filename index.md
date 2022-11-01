@@ -17,9 +17,9 @@ My research interests lie primarily in the areas of automatic control, planning 
 
 ## Publications
 
-1. Mengyi Gao, **Xiaowei Xing**, and Dong Eui Chang, "Autonomous Drone Surveillance in a Known Environment Using Reinforcement Learning," in *International Conference on Control, Automation and Systems (ICCAS)*, 2022.
-2. Jiayao Jia, **Xiaowei Xing**, and Dong Eui Chang, "GRU-Attention based TD3 Network for Mobile Robot Navigation," in *International Conference on Control, Automation and Systems (ICCAS)*, 2022.
-3. **Xiaowei Xing** and Dong Eui Chang, "The Adaptive Dynamic Programming Toolbox," *Sensors*, vol. 21, no. 16, p. 5609, 2021.
+1. Mengyi Gao, **Xiaowei Xing**, and Dong Eui Chang, "Autonomous drone surveillance in a known environment using reinforcement learning," in *International Conference on Control, Automation and Systems (ICCAS)*, 2022.
+2. Jiayao Jia, **Xiaowei Xing**, and Dong Eui Chang, "GRU-attention based TD3 network for mobile robot navigation," in *International Conference on Control, Automation and Systems (ICCAS)*, 2022.
+3. **Xiaowei Xing** and Dong Eui Chang, "The adaptive dynamic programming toolbox," *Sensors*, vol. 21, no. 16, p. 5609, 2021.
 4. **Xiaowei Xing** and Dong Eui Chang, “Deep reinforcement learning based robot arm manipulation with eﬀicient training data through simulation,” in *International Conference on Control, Automation and Systems (ICCAS)*, 2019.
 5. Zhongyan Xu, Fenghua He, **Xiaowei Xing**, Hongsheng Qi, and Xin Huo, “Modelling and control of a quadrotor equipped with an unbalanced load,” in *Asian Control Conference (ASCC)*, 2017.
 6. Haodi Yao, Qingtao Yu, **Xiaowei Xing**, Fenghua He, and Jie Ma, “Deep-learning-based moving target detection for unmanned air vehicles,” in *Chinese Control Conference (CCC)*, 2017.
