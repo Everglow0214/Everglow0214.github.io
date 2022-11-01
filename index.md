@@ -13,7 +13,7 @@ My research interests lie primarily in the areas of automatic control, planning 
 
 - Ph.D candidate, Electrical Engineering, Korea Advanced Institute of Science and Technology (Supervisor: [Prof. Dong Eui Chang](https://ee.kaist.ac.kr/en/professor/14314/), 2020 - Present)
 - M.Sc., Electrical Engineering, Korea Advanced Institute of Science and Technology (Supervisor: [Prof. Dong Eui Chang](https://ee.kaist.ac.kr/en/professor/14314/), 2018 - 2020)
-- B.Sc. in Automation (Honors School) at Harbin Institue of Techonology (Supervisors: [Prof. Yu Yao](http://homepage.hit.edu.cn/yaoyu) and [Prof. Fenghua He](http://homepage.hit.edu.cn/hefenghua), 2014 - 2018)
+- B.Sc., Automation (Honors School) at Harbin Institue of Techonology (Supervisors: [Prof. Yu Yao](http://homepage.hit.edu.cn/yaoyu) and [Prof. Fenghua He](http://homepage.hit.edu.cn/hefenghua), 2014 - 2018)
 
 ## Publications
 
