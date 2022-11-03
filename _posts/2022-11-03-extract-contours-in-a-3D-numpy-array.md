@@ -17,3 +17,5 @@ dila = morphology.dilation(arr!=1, morphology.cube(3))
 
 res = np.argwhere((a==1) & (dila==True)) # indices of the contours
 {% endhighlight %}
+
+Note that in this case, if all elements of `arr` is 1, the result `res` will be empty.
