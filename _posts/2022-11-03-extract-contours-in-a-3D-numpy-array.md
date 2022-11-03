@@ -1,7 +1,7 @@
 ---
 title:  "Extract contours in a 3D NumPy array"
 layout: post
-tags: ["Python", "NumPy"]
+tags: Python NumPy
 ---
 
 The following mophological method can be used to extract the contours in a 3D NumPy array. The idea comes from [here](https://stackoverflow.com/questions/51696326/extracting-boundary-of-a-numpy-array).
