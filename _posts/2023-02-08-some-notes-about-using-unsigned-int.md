@@ -7,6 +7,7 @@ tags: C++
 The following `for` loop will never stop
 
 {% highlight cpp %}
+#include <iostream>
 for (unsigned i = 5; i >= 0; --i) {
     std::cout << i << std::endl;
 }
